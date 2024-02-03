@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Moviezz/static/css/main.e45fb457.css",
+    "main.js": "/Moviezz/static/js/main.27b7f2bc.js",
+    "index.html": "/Moviezz/index.html",
+    "main.e45fb457.css.map": "/Moviezz/static/css/main.e45fb457.css.map",
+    "main.27b7f2bc.js.map": "/Moviezz/static/js/main.27b7f2bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e45fb457.css",
+    "static/js/main.27b7f2bc.js"
+  ]
+}
